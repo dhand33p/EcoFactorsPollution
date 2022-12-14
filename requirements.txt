@@ -5,3 +5,4 @@ beautifulsoup4
 re
 matplotlib
 plotly
+seaborn

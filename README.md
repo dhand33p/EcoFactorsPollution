@@ -16,6 +16,7 @@ numpy
 requests
 beautifulsoup4
 re
+seaborn
 matplotlib
 plotly
 
